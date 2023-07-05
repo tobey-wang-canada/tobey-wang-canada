@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @macartney-wang
+- 👋 Hi, I’m @Tobey-Wang
 - 👀 I’m interested in statistical learning, machine learning and history
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m currently a master student in Canada
