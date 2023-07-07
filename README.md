@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tobey-Wang
+- 👋 Hi, I’m @tobey-wang-canada
 - 👀 I’m interested in statistical learning, machine learning and history
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m currently a master student in Canada
