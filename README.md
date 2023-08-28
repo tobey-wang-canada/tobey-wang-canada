@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tobey-wang-canada
 - 👀 I’m interested in statistical learning, machine learning and big data
-- 🌱 I’m proficient in various programming languages: Python (NumPy, Pandas, Matplotlib, sklearn, TensorFlow), R (ggplot2), SAS, SPSS, SQL, HiveQL
+- 🌱 I’m proficient in various programming languages: Python (NumPy, Pandas, Matplotlib, sklearn), R, SAS, SPSS, SQL, HiveQL
 - 💞️ I’m currently a master student (specialized in statistics) in Canada
 
 <!---
